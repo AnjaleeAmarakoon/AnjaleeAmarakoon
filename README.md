@@ -29,7 +29,6 @@ const anjalee = {
 ```
 
 </div>
-
 <div align="center">
   <a href="https://github.com/ThisaraJayasooriya/UoM-VMS-frontend" target="_blank">
     <img src="https://img.shields.io/badge/🚧_Current_Project-Visitor_Management_System-00D4AA?style=for-the-badge&labelColor=1a1a1a" />
