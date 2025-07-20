@@ -16,19 +16,25 @@
 
 ## 🎯 **Currently Working On**
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="800">
 
+**🚀 Current Focus**
 ```javascript
 const anjalee = {
     currentProject: "🏢 Visitor Management System",
-    learning: ["☁️ Cloud Computing", "🏗️ System Design"],
+    learning: ["☁️ Cloud Computing", "🏗️ System Design"], 
     writing: "📝 Tech blogs on Medium",
     collaborating: "🤝 Open source contributions",
-    askMeAbout: ["React", "Node.js", "MongoDB"]
+    askMeAbout: ["React", "Node.js", "MongoDB", "Full Stack Development"]
 };
 ```
 
-</div>
+</td>
+</tr>
+</table>
+
 <div align="center">
   <a href="https://github.com/ThisaraJayasooriya/UoM-VMS-frontend" target="_blank">
     <img src="https://img.shields.io/badge/🚧_Current_Project-Visitor_Management_System-00D4AA?style=for-the-badge&labelColor=1a1a1a" />
