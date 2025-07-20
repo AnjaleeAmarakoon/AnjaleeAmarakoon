@@ -1,17 +1,12 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/AnjaleeAmarakoon/AnjaleeAmarakoon/assets/117889472/ed939e15-d2e0-4a3b-8975-728d6a8f2895" alt="Anjalee Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Anjalee Amarakoon</h1>
 <h3 align="center">🚀 Tech Explorer | Problem Solver | MERN Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=435&lines=Software+Engineering+Undergraduate;Frontend+Developer;Backend+Learner;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=435&lines=IT+Undergraduate;Full+Stack+Learner;Cloud+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding animation"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFndGxtYnVxYjFhcjRvaGR5em81eGhid2ZsZzZoZHJlb21jaTQ4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="coding animation"/>
 </p>
 
 ---
@@ -54,7 +49,10 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind,bootstrap,c,java,php,mysql,postman,figma,git,arduino" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind,bootstrap,java" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,php,mysql,postman,figma,git,arduino" />
 </p>
 
 ---
@@ -84,9 +82,7 @@
 
 ### 🧠 Fun Facts
 
-- 🌱 Currently learning: Cloud Computing & System Design  
-- 🧩 Favorite Stack: MERN + Tailwind  
-- 🎯 Goal: Become a highly employable Software Engineer within 8 months  
+- 🌱 Currently learning: Cloud Computing & System Design   
 - 🌍 Always open to **collaboration**, **mentoring**, and **open-source**
 
 ---
@@ -94,5 +90,5 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnjaleeAmarakoon&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnjaleeAmarakoon&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Graph" />
 </p>
