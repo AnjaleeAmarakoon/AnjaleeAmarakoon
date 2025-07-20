@@ -21,15 +21,15 @@
 <td align="center" width="800">
 
 **🚀 Current Focus**
-  ```javascript
-    const anjalee = {
-        currentProject: "🏢 Visitor Management System",
-        learning: ["☁️ Cloud Computing", "🏗️ System Design"], 
-        writing: "📝 Tech blogs on Medium",
-        collaborating: "🤝 Open source contributions",
-        askMeAbout: ["React", "Node.js", "MongoDB", "Full Stack Development"]
-        };
-  ```
+      ```javascript
+        const anjalee = {
+            currentProject: "🏢 Visitor Management System",
+            learning: ["☁️ Cloud Computing", "🏗️ System Design"], 
+            writing: "📝 Tech blogs on Medium",
+            collaborating: "🤝 Open source contributions",
+            askMeAbout: ["React", "Node.js", "MongoDB", "Full Stack Development"]
+            };
+      ```
 
 </td>
 </tr>
