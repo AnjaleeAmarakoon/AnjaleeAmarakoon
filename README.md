@@ -2,9 +2,9 @@
   
 # 👋 Hey there, I'm **Anjalee Amarakoon**
 
-### 🚀 **Tech Explorer** | **Problem Solver** | **MERN Developer**
+###  - **TECH EXPLORER** -
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=IT+Undergraduate+%F0%9F%8E%93;Full+Stack+Learner+%F0%9F%92%BB;Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=IT+Undergraduate+%F0%9F%8E%93;Full+Stack+Learner+%F0%9F%92%BB;UI/UX+Designer+%F0%9F%8E%A8;" alt="Typing Animation" />
 
 <br>
 
@@ -21,9 +21,7 @@
 ```javascript
 const anjalee = {
     currentProject: "🏢 Visitor Management System",
-    learning: ["☁️ Cloud Computing", "🏗️ System Design"],
     writing: "📝 Tech blogs on Medium",
-    collaborating: "🤝 Open source contributions",
     askMeAbout: ["React", "Node.js", "MongoDB"]
 };
 ```
@@ -65,21 +63,9 @@ const anjalee = {
 [![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amarakoonanjalee11)
 
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amarakoon_anjalee)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/29827687)
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/anjaleeamarakoon)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Compete-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@amarakoonanjale1)
 
-</div>
-
----
-
-## 🏆 **Featured Project**
-
-<div align="center">
-  <a href="https://github.com/ThisaraJayasooriya/UoM-VMS-frontend" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThisaraJayasooriya&repo=UoM-VMS-frontend&theme=react&bg_color=0D1117&title_color=00D4AA&text_color=8B949E&icon_color=00D4AA&border_color=30363D&border_radius=10" alt="Visitor Management System" />
-  </a>
 </div>
 
 ---
@@ -106,17 +92,6 @@ const anjalee = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnjaleeAmarakoon&custom_title=Anjalee's%20Contribution%20Graph&bg_color=0D1117&color=8B949E&line=00D4AA&point=00D4AA&area_color=00D4AA&title_color=00D4AA&area=true&border_radius=10" alt="Contribution Graph" />
 </div>
 
----
-
-## ✨ **Fun Facts**
-
-<div align="center">
-
-> 🌱 **Currently mastering:** Cloud Computing & System Design  
-> 🤝 **Open to:** Collaboration, & Open Source   
-> 🎯 **Goal:** Building scalable solutions that make a difference  
-
-</div>
 
 ---
 
