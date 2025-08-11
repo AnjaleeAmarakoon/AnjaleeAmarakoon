@@ -21,6 +21,7 @@
 ```javascript
 const anjalee = {
     currentProject: "🏢 Visitor Management System",
+    learning: ["🎨 Exploring creative UI/UX design techniques"],
     writing: "📝 Tech blogs on Medium",
     askMeAbout: ["React", "Node.js", "MongoDB"]
 };
