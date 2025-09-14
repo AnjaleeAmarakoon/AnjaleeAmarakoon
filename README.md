@@ -25,6 +25,7 @@ const anjalee = {
     writing: "📝 Tech blogs on Medium",
     askMeAbout: ["React", "Node.js", "MongoDB"]
 };
+```
 
 ---
 
