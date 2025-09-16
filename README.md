@@ -76,14 +76,6 @@ const anjalee = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaleeAmarakoon&layout=compact&theme=react&bg_color=0D1117&title_color=00D4AA&text_color=8B949E&border_color=30363D&border_radius=10&langs_count=8" alt="Top Languages"/>
 </div>
 
----
-
-## 📈 **Contribution Activity**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnjaleeAmarakoon&custom_title=Anjalee's%20Contribution%20Graph&bg_color=0D1117&color=8B949E&line=00D4AA&point=00D4AA&area_color=00D4AA&title_color=00D4AA&area=true&border_radius=10" alt="Contribution Graph" />
-</div>
-
 
 ---
 
