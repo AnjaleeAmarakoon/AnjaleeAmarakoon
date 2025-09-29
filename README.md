@@ -4,7 +4,7 @@
 
 ###  - **TECH EXPLORER** -
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=IT+Undergraduate+%F0%9F%8E%93;Full+Stack+Learner+%F0%9F%92%BB;UI/UX+Designer+%F0%9F%8E%A8;" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=IT+Undergraduate+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;UI/UX+Designer+%F0%9F%8E%A8;" alt="Typing Animation" />
 
 <br>
 
