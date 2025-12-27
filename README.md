@@ -24,7 +24,6 @@ I enjoy building **scalable, structured applications**—from backend APIs and d
 
 ## 🎯 Currently Focused On
 
-<div align="center">
 
 ```js
 const anjalee = {
@@ -43,6 +42,7 @@ const anjalee = {
 };
 ```
 </div>
+
 ---
 
 ## 🛠️ **Tech Arsenal**
@@ -81,9 +81,18 @@ const anjalee = {
 
 ---
 
-## 📊 **GitHub Analytics**
+## 📊 GitHub Analytics
 
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnjaleeAmarakoon&show_icons=true&theme=react&bg_color=0D1117&title_color=00D4AA&text_color=8B949E&icon_color=00D4AA&border_color=30363D&border_radius=10&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnjaleeAmarakoon&theme=react&bg_color=0D1117&title_color=00D4AA&text_color=8B949E&border_color=30363D" /> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaleeAmarakoon&layout=compact&theme=react&bg_color=0D1117&title_color=00D4AA&text_color=8B949E&border_color=30363D&langs_count=8" /> </div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnjaleeAmarakoon&show_icons=true&theme=react&bg_color=0D1117&title_color=00D4AA&text_color=8B949E&icon_color=00D4AA&border_color=30363D&border_radius=10&include_all_commits=true" alt="GitHub Stats" />
+
+  <img height="180em" src="https://streak-stats.demolab.com?user=AnjaleeAmarakoon&theme=react&background=0D1117&border=30363D&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA" alt="Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaleeAmarakoon&layout=compact&theme=react&bg_color=0D1117&title_color=00D4AA&text_color=8B949E&border_color=30363D&border_radius=10&langs_count=8" alt="Top Languages"/>
+</p>
+
 
 
 ---
